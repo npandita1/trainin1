@@ -1,1 +1,1 @@
-1st commit is done successfully by Niharika.
+About Page and Home Page have been made. 
